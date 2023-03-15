@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/mathseasy/static/css/main.38be36b0.css",
+    "main.js": "/mathseasy/static/js/main.bd6eedb3.js",
+    "static/js/514.f113bf71.chunk.js": "/mathseasy/static/js/514.f113bf71.chunk.js",
+    "static/js/787.675d37ac.chunk.js": "/mathseasy/static/js/787.675d37ac.chunk.js",
+    "static/js/500.126acd6a.chunk.js": "/mathseasy/static/js/500.126acd6a.chunk.js",
+    "index.html": "/mathseasy/index.html",
+    "main.38be36b0.css.map": "/mathseasy/static/css/main.38be36b0.css.map",
+    "main.bd6eedb3.js.map": "/mathseasy/static/js/main.bd6eedb3.js.map",
+    "514.f113bf71.chunk.js.map": "/mathseasy/static/js/514.f113bf71.chunk.js.map",
+    "787.675d37ac.chunk.js.map": "/mathseasy/static/js/787.675d37ac.chunk.js.map",
+    "500.126acd6a.chunk.js.map": "/mathseasy/static/js/500.126acd6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38be36b0.css",
+    "static/js/main.bd6eedb3.js"
+  ]
+}
