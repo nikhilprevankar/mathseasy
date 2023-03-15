@@ -1,1 +1,1 @@
-# matheasy
+# mathseasy
